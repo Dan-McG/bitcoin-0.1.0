@@ -33,7 +33,7 @@ connections, otherwise the nodes you can connect with will be limited.
 
 To support the network by running a node, select:
 
-  Options->Generate Coins
+Options->Generate Coins
 
 and keep the program open or minimized.  It runs at idle priority when no other
 programs are using the CPU.  Your computer will be solving a very difficult
