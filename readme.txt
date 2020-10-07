@@ -1,6 +1,6 @@
 BitCoin v0.01 ALPHA
 
-Copyright (c) 2009 Satoshi Nakamoto
+Copyright (c) 2009 Satoshi Nakamoto AKA A.M.S
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -33,7 +33,7 @@ connections, otherwise the nodes you can connect with will be limited.
 
 To support the network by running a node, select:
 
-  Options->Generate Coins
+Options->Generate Coins
 
 and keep the program open or minimized.  It runs at idle priority when no other
 programs are using the CPU.  Your computer will be solving a very difficult
