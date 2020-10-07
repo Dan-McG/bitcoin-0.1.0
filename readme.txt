@@ -1,6 +1,6 @@
 BitCoin v0.01 ALPHA
 
-Copyright (c) 2009 Satoshi Nakamoto
+Copyright (c) 2009 Satoshi Nakamoto AKA A.M.S
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
